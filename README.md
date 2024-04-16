@@ -1,8 +1,9 @@
 # Zotion
 
-![Banner](/public/readme-banner.png)
+![image](https://github.com/RandomThacker/zotion/assets/141705990/d6e42733-9426-466e-b7a1-76222d567c4c)
 
-This project is a simplified clone of the popular productivity application, Notion. It's designed to replicate some of the core features of Notion, providing a platform where users can create, edit, and organize their notes in a flexible and intuitive interface.
+
+Zotion is a Notion-like application built with Next.js 14, React, Convex, Tailwind, Clerk, and EdgeStore. It is a real-time database and Notion-style editor that allows you to create, edit, and delete documents. It also allows you to publish your note to the web.
 
 It uses Convex as the backend, which is a real-time database that allows for instant data updates. The application also uses Edgestore, a distributed key-value store, to manage the images and files uploaded by the users.The user authentication is handled by Clerk, a secure and scalable user authentication API.
 
@@ -12,30 +13,23 @@ Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
 
 ## Features
 
-**Productivity and Organization**s
-
-- 📝 Notion-style editor for seamless note-taking
-- 📂 Infinite children documents for hierarchical organization
-- ➡️🔀⬅️ Expandable and fully collapsible sidebar for easy navigation
-- 🎨 Customizable icons for each document, updating in real-time
-- 🗑️ Trash can with soft delete and file recovery options
-
-**User Experience**
-
-- 🌓 Light and Dark mode to suit your preferences
-- 📱 Full mobile responsiveness for productivity on the go
-- 🛬 Landing page for a welcoming user entry point
-- 🖼️ Cover image for each document to add a personal touch
-
-**Data Management**
-
-- 🔄 Real-time database for instant data updates
-- 📤📥 File upload, deletion, and replacement options
-
-**Security and Sharing**
-
-- 🔐 Authentication to secure your notes
-- 🌍 Option to publish your note to the web for sharing
+-Real-time database 🔗
+-Notion-style editor 📝
+-Light and Dark mode 🌓
+-Infinite children documents 🌲
+-Trash can & soft delete 🗑
+-Authentication 🔐
+-File upload
+-File deletion
+-File replacement
+-Icons for each document (changes in real-time) 🌠
+-Expandable sidebar ➡🔀⬅
+-Full mobile responsiveness 📱
+-Publish your note to the web 🌐
+-Fully collapsable sidebar ↕
+-Landing page 🛬
+-Cover image of each document 🖼
+-Recover deleted files 🔄📄
 
 ## Technologies
 
