@@ -14,21 +14,37 @@ Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
 ## Features
 
 -Real-time database 🔗
+
 -Notion-style editor 📝
+
 -Light and Dark mode 🌓
+
 -Infinite children documents 🌲
+
 -Trash can & soft delete 🗑
+
 -Authentication 🔐
+
 -File upload
+
 -File deletion
+
 -File replacement
+
 -Icons for each document (changes in real-time) 🌠
+
 -Expandable sidebar ➡🔀⬅
+
 -Full mobile responsiveness 📱
+
 -Publish your note to the web 🌐
+
 -Fully collapsable sidebar ↕
+
 -Landing page 🛬
+
 -Cover image of each document 🖼
+
 -Recover deleted files 🔄📄
 
 ## Technologies
@@ -37,11 +53,9 @@ Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
 ![Shadcn-ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF.svg?style=for-the-badge&logo=Clerk&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-ee342f.svg?style=for-the-badge&logo=Convex&logoColor=white)
 ![Edgestore](https://img.shields.io/badge/Edgestore-a57fff.svg?style=for-the-badge&logo=Edgestore&logoColor=white)
-![Blocknote](https://img.shields.io/badge/Blocknote-ff8c00.svg?style=for-the-badge&logo=Blocknote&logoColor=white)
 
 ## Installation
 
