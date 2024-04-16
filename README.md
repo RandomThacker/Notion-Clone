@@ -14,6 +14,7 @@ Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
 ## Features
 
 -Real-time database 🔗
+
 -Notion-style editor 📝
 
 -Light and Dark mode 🌓
