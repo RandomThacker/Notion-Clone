@@ -14,7 +14,6 @@ Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
 ## Features
 
 -Real-time database 🔗
-
 -Notion-style editor 📝
 
 -Light and Dark mode 🌓
@@ -92,6 +91,3 @@ npx convex dev
 npm run dev
 ```
 
-## Acknowledgements
-
-[CodewithAntonio](https://www.youtube.com/@codewithantonio)
